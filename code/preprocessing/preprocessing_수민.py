@@ -157,3 +157,4 @@ if __name__ == "__main__":
                             for extracted_file in extracted_files:
                                 df_test = extract_dataframe_from_file(os.path.join(data_path, extracted_file))
                                 df_test.to_csv(os.path.join(data_path, os.path.splitext(extracted_file)[0] + ".csv"), index=False, encoding='cp949')
+
