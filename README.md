@@ -3,4 +3,4 @@
 
 
 ## PCA 시각화 결과
-![image](https://github.com/Prcnsi/Deep-learning-based_CMM_Defect-detection/assets/86015194/dd3305d3-7bf9-48af-b28a-92f5bcbfa341)
+![그림1](https://github.com/Prcnsi/Deep-learning-based_CMM_Defect-detection/assets/86015194/b84f2876-314f-42f1-b90f-d17c90ee1960)
